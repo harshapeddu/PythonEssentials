@@ -1,4 +1,5 @@
-
+#This is my first set of python programs
+#this is written for python programming practice
 # coding: utf-8
 
 # In[1]:
