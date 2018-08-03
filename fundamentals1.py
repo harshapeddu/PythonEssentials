@@ -2,13 +2,15 @@
 #This is my first set of python programs
 #this is written for python programming practice
 # coding: utf-8
-
+#changes made by harshapeddu
+#changed the input parameters to take int
+#changed the operation by removing the int conversion as inputs were converted intp int type
 # In[1]:
 
 
-a = input('enter value of a: ')
-b = input('enter value of b: ')
-c = int(a)+int(b)
+a = int(input('enter value of a: '))
+b = int(input('enter value of b: '))
+c = a+b
 print('the sum of two numbers is :',c)
 
 
